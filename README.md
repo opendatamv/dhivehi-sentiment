@@ -1,4 +1,4 @@
-# Dhivehi Sentiment Dataset
+# Dhivehi Sentiment Dataset (Ongoing Project)
 
 Dataset for Dhivehi Sentiment Analysis. This data collection project is still an on going project.
 New data will be pushed to this repository.
